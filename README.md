@@ -11,7 +11,7 @@ A simple and secure password generator built with React. Users can customize pas
   - Special characters
   - Uppercase letters
   - Lowercase letters
-- Copy password to clipboard
+- Easy Copy password to clipboard
 - Clean and responsive UI
 
 📸 Screenshot
